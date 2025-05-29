@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1747948545 source:c:\users\ronal\onedrive\documents\github\ronald_matarranz_pm_2025_c2\switch1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
